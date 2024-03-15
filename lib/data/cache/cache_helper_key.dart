@@ -1,0 +1,4 @@
+enum CacheHelperKey {
+  unit,
+  theme
+}
